@@ -49,6 +49,7 @@ TravelBloom is a web-based travel recommendation platform designed to help users
 ├── travel_recommendation_api.json  # Data Source (100+ locations)
 └── README.md                       # Project Documentation
 
+```
 
 ## ⚙️ Installation & Setup
 Since this is a static website, no complex backend installation is required.
