@@ -41,10 +41,65 @@ TravelBloom is a web-based travel recommendation platform designed to help users
 ```text
 /travelRecommendation
 │
-├── index.html      # Main Landing/Home Page
+├── travel_recommendation.html      # Main Landing/Home Page
 ├── about_us.html                   # Company & Team Information
 ├── contact_us.html                 # User Contact Form
 ├── travel_recommendation.css       # Global Stylesheet
 ├── travel_recommendation.js        # Main Logic & API Handling
 ├── travel_recommendation_api.json  # Data Source (100+ locations)
 └── README.md                       # Project Documentation
+⚙️ Installation & Setup
+Since this is a static website, no complex backend installation is required.
+
+Clone the repository:
+
+Bash
+
+git clone [https://github.com/YOUR_USERNAME/travelRecommendation.git](https://github.com/YOUR_USERNAME/travelRecommendation.git)
+Navigate to the project folder:
+
+Bash
+
+cd travelRecommendation
+Run the project:
+
+Option A (VS Code Live Server): Right-click travel_recommendation.html and select "Open with Live Server".
+
+Option B (Browser): Simply double-click travel_recommendation.html to open it in your default browser.
+
+📖 Usage Guide
+Home Page: Upon loading, the site may feature recommended destinations automatically.
+
+Search:
+
+Type "beach" to see coastal destinations.
+
+Type "temple" to see historic religious sites.
+
+Type "country" to see a list of cities from various nations.
+
+Type a specific country name (e.g., "Japan", "Australia", "Iran") to filter results for that nation.
+
+Clear: Click the "Clear" button to reset the search bar and remove results.
+
+Contact: Navigate to the "Contact Us" page to view the submission form (UI only).
+
+🌐 Live Demo
+You can view the live project here: Link to your GitHub Pages
+
+(Note: Replace the link above after you enable GitHub Pages in your repository settings)
+
+🤝 Contributing
+This is a final capstone project. However, suggestions and pull requests are welcome for educational purposes.
+
+Fork the Project
+
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+
+Push to the Branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+Author: Ahmadreza Soroush
