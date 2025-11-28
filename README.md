@@ -38,7 +38,7 @@ TravelBloom is a web-based travel recommendation platform designed to help users
 
 ## 📂 Project Structure
 
-
+```text
 /travelRecommendation
 │
 ├── travel_recommendation.html      # Main Landing/Home Page
