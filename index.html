@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TravelBloom</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./travel_recommendation.css">
+</head>
+<body>
+    <nav>
+        <div class="logo"><img src="https://img.icons8.com/color/48/airplane-take-off.png" alt="logo" style="width:30px;vertical-align:middle;"> TravelBloom</div>
+        <ul class="nav-links">
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./about_us.html">About Us</a></li>
+            <li><a href="./contact_us.html">Contact Us</a></li>
+        </ul>
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Enter beach, temple, or country...">
+            <button id="btnSearch">Search</button>
+            <button id="btnClear">Clear</button>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-overlay">
+            <div class="hero-content">
+                <h1>EXPLORE DREAM DESTINATIONS</h1>
+                <p>It encourages exploration of unfamiliar territories, embracing diverse cultures and landscapes, while pursuing the desired destination that captivates the heart.</p>
+                <button class="cta-button">Book Now</button>
+            </div>
+        </div>
+    </header>
+
+    <div class="social-sidebar">
+        <a href="#"><img src="https://img.icons8.com/ios-filled/50/ffffff/twitter.png" alt="Twitter"></a>
+        <a href="#"><img src="https://img.icons8.com/ios-filled/50/ffffff/facebook-new.png" alt="Facebook"></a>
+        <a href="#"><img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" alt="Instagram"></a>
+    </div>
+
+    <h2 style="text-align:center; margin-top:40px; color:#fff;">Top Recommendations</h2>
+    <div id="resultContainer">
+        </div>
+
+    <script src="./travel_recommendation.js"></script>
+</body>
+</html>

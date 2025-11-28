@@ -1,0 +1,212 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Iran",
+      "cities": [
+        {
+          "name": "Tehran, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/tehran,tower",
+          "description": "The bustling capital, featuring the Azadi Tower, Grand Bazaar, and Golestan Palace."
+        },
+        {
+          "name": "Isfahan, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/isfahan,mosque",
+          "description": "Known as 'Half the World', famous for Naqsh-e Jahan Square and Si-o-se-pol bridge."
+        },
+        {
+          "name": "Shiraz, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/shiraz,garden",
+          "description": "The city of poets and gardens, home to the Pink Mosque and the tomb of Hafez."
+        },
+        {
+          "name": "Yazd, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/yazd,desert",
+          "description": "A UNESCO World Heritage city known for its windcatchers and Zoroastrian temples."
+        },
+        {
+          "name": "Persepolis, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/persepolis,ruins",
+          "description": "The ceremonial capital of the Achaemenid Empire, showcasing ancient Persian glory."
+        },
+        {
+          "name": "Tabriz, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/tabriz,bazaar",
+          "description": "Famous for its historic Bazaar Complex, the largest covered bazaar in the world."
+        },
+        {
+          "name": "Kashan, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/kashan,house",
+          "description": "A desert city known for its stunning traditional houses like Borujerdi House and Fin Garden."
+        },
+        {
+          "name": "Kish Island, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/kish,island",
+          "description": "A relaxed resort island in the Persian Gulf known for shopping and coral beaches."
+        },
+        {
+          "name": "Qeshm Island, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/qeshm,canyon",
+          "description": "Home to the Stars Valley and Chahkooh Canyon, offering unique geological landscapes."
+        },
+        {
+          "name": "Mashhad, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/mashhad,shrine",
+          "description": "The holiest city in Iran, home to the massive Imam Reza Shrine complex."
+        },
+        {
+          "name": "Kerman, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/kerman,desert",
+          "description": "Gateway to the Lut Desert, featuring the Ganjali Khan Complex."
+        },
+        {
+          "name": "Hamadan, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/hamadan,cave",
+          "description": "One of the oldest cities in the world, home to Avicenna's tomb and Ali Sadr Cave."
+        },
+        {
+          "name": "Rasht, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/rasht,rain",
+          "description": "Known as the City of Rain, famous for its delicious cuisine and nearby forests."
+        },
+        {
+          "name": "Ramsar, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/ramsar,caspian",
+          "description": "A popular resort town sandwiched between the Caspian Sea and the Alborz mountains."
+        },
+        {
+          "name": "Masuleh, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/masuleh,village",
+          "description": "A unique stepped village where the roof of one house is the courtyard of the one above."
+        },
+        {
+          "name": "Qom, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/qom,mosque",
+          "description": "A significant religious center known for the Fatima Masumeh Shrine."
+        },
+        {
+          "name": "Ahvaz, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/ahvaz,bridge",
+          "description": "Famous for its bridges over the Karun River, especially the White Bridge."
+        },
+        {
+          "name": "Sanandaj, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/kurdistan,nature",
+          "description": "The capital of Kurdish culture in Iran, surrounded by beautiful hills and nature."
+        },
+        {
+          "name": "Zanjan, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/zanjan,dome",
+          "description": "Home to the Soltaniyeh Dome, a masterpiece of Persian architecture."
+        },
+        {
+          "name": "Shushtar, Iran",
+          "imageUrl": "https://loremflickr.com/600/400/shushtar,water",
+          "description": "Famous for its ancient Historical Hydraulic System, a UNESCO World Heritage site."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "cities": [
+        { "name": "Tokyo, Japan", "imageUrl": "https://loremflickr.com/600/400/tokyo,city", "description": "Neon lights and technology." },
+        { "name": "Kyoto, Japan", "imageUrl": "https://loremflickr.com/600/400/kyoto,temple", "description": "Ancient traditions and geishas." },
+        { "name": "Osaka, Japan", "imageUrl": "https://loremflickr.com/600/400/osaka,street food", "description": "The kitchen of Japan." },
+        { "name": "Hokkaido, Japan", "imageUrl": "https://loremflickr.com/600/400/hokkaido,snow", "description": "Famous for snow and skiing." },
+        { "name": "Nara, Japan", "imageUrl": "https://loremflickr.com/600/400/nara,deer", "description": "Friendly deer park and temples." },
+        { "name": "Hiroshima, Japan", "imageUrl": "https://loremflickr.com/600/400/hiroshima,peace", "description": "City of peace and history." },
+        { "name": "Okinawa, Japan", "imageUrl": "https://loremflickr.com/600/400/okinawa,beach", "description": "Tropical islands of Japan." },
+        { "name": "Fukuoka, Japan", "imageUrl": "https://loremflickr.com/600/400/fukuoka,ramen", "description": "Famous for Tonkotsu Ramen." },
+        { "name": "Kobe, Japan", "imageUrl": "https://loremflickr.com/600/400/kobe,beef", "description": "Port city famous for beef." },
+        { "name": "Hakone, Japan", "imageUrl": "https://loremflickr.com/600/400/hakone,fuji", "description": "Hot springs with views of Mt Fuji." }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Australia",
+      "cities": [
+        { "name": "Sydney, Australia", "imageUrl": "https://loremflickr.com/600/400/sydney,opera", "description": "The Opera house and harbor." },
+        { "name": "Melbourne, Australia", "imageUrl": "https://loremflickr.com/600/400/melbourne,coffee", "description": "Coffee culture and arts." },
+        { "name": "Brisbane, Australia", "imageUrl": "https://loremflickr.com/600/400/brisbane,river", "description": "Sunshine state capital." },
+        { "name": "Perth, Australia", "imageUrl": "https://loremflickr.com/600/400/perth,park", "description": "Remote and beautiful city." },
+        { "name": "Adelaide, Australia", "imageUrl": "https://loremflickr.com/600/400/adelaide,wine", "description": "City of churches and wine." },
+        { "name": "Gold Coast, Australia", "imageUrl": "https://loremflickr.com/600/400/goldcoast,surf", "description": "Surfers paradise." },
+        { "name": "Cairns, Australia", "imageUrl": "https://loremflickr.com/600/400/cairns,reef", "description": "Gateway to the Barrier Reef." },
+        { "name": "Hobart, Australia", "imageUrl": "https://loremflickr.com/600/400/hobart,tasmania", "description": "Historic waterfront city." },
+        { "name": "Darwin, Australia", "imageUrl": "https://loremflickr.com/600/400/darwin,outback", "description": "Tropical capital of the north." },
+        { "name": "Canberra, Australia", "imageUrl": "https://loremflickr.com/600/400/canberra,parliament", "description": "The bush capital." }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "United States",
+      "cities": [
+        { "name": "New York City, USA", "imageUrl": "https://loremflickr.com/600/400/nyc,skyline", "description": "The city that never sleeps." },
+        { "name": "Los Angeles, USA", "imageUrl": "https://loremflickr.com/600/400/losangeles,hollywood", "description": "Home of Hollywood." },
+        { "name": "Chicago, USA", "imageUrl": "https://loremflickr.com/600/400/chicago,architecture", "description": "The windy city." },
+        { "name": "Miami, USA", "imageUrl": "https://loremflickr.com/600/400/miami,beach", "description": "Latin culture and nightlife." },
+        { "name": "San Francisco, USA", "imageUrl": "https://loremflickr.com/600/400/sanfrancisco,bridge", "description": "Golden Gate and tech." },
+        { "name": "Las Vegas, USA", "imageUrl": "https://loremflickr.com/600/400/lasvegas,lights", "description": "Entertainment capital." },
+        { "name": "Seattle, USA", "imageUrl": "https://loremflickr.com/600/400/seattle,needle", "description": "Coffee and rain." },
+        { "name": "Boston, USA", "imageUrl": "https://loremflickr.com/600/400/boston,history", "description": "Historic american city." },
+        { "name": "New Orleans, USA", "imageUrl": "https://loremflickr.com/600/400/neworleans,jazz", "description": "Jazz and Mardi Gras." },
+        { "name": "Austin, USA", "imageUrl": "https://loremflickr.com/600/400/austin,music", "description": "Live music capital." }
+      ]
+    }
+  ],
+  "temples": [
+    { "id": 1, "name": "Angkor Wat, Cambodia", "imageUrl": "https://loremflickr.com/600/400/angkorwat", "description": "Largest religious monument." },
+    { "id": 2, "name": "Taj Mahal, India", "imageUrl": "https://loremflickr.com/600/400/tajmahal", "description": "Symbol of love." },
+    { "id": 3, "name": "Borobudur, Indonesia", "imageUrl": "https://loremflickr.com/600/400/borobudur", "description": "Massive Buddhist temple." },
+    { "id": 4, "name": "Golden Temple, India", "imageUrl": "https://loremflickr.com/600/400/goldentemple,amritsar", "description": "Sikh holy shrine." },
+    { "id": 5, "name": "Kinkaku-ji, Japan", "imageUrl": "https://loremflickr.com/600/400/kinkakuji", "description": "The Golden Pavilion." },
+    { "id": 6, "name": "Wat Arun, Thailand", "imageUrl": "https://loremflickr.com/600/400/watarun", "description": "Temple of Dawn." },
+    { "id": 7, "name": "Prambanan, Indonesia", "imageUrl": "https://loremflickr.com/600/400/prambanan", "description": "Hindu temple complex." },
+    { "id": 8, "name": "Temple of Heaven, China", "imageUrl": "https://loremflickr.com/600/400/templeofheaven", "description": "Imperial sacrificial altar." },
+    { "id": 9, "name": "Shwedagon Pagoda, Myanmar", "imageUrl": "https://loremflickr.com/600/400/shwedagon", "description": "Golden pagoda." },
+    { "id": 10, "name": "Lotus Temple, India", "imageUrl": "https://loremflickr.com/600/400/lotustemple", "description": "Bahai house of worship." },
+    { "id": 11, "name": "Meenakshi Temple, India", "imageUrl": "https://loremflickr.com/600/400/meenakshi", "description": "Colorful hindu temple." },
+    { "id": 12, "name": "Bagan, Myanmar", "imageUrl": "https://loremflickr.com/600/400/bagan", "description": "Ancient temple city." },
+    { "id": 13, "name": "Karnak, Egypt", "imageUrl": "https://loremflickr.com/600/400/karnak", "description": "Ancient Egyptian complex." },
+    { "id": 14, "name": "Senso-ji, Japan", "imageUrl": "https://loremflickr.com/600/400/sensoji", "description": "Tokyo's oldest temple." },
+    { "id": 15, "name": "Tiger's Nest, Bhutan", "imageUrl": "https://loremflickr.com/600/400/tigersnest", "description": "Cliffside monastery." },
+    { "id": 16, "name": "Wat Rong Khun, Thailand", "imageUrl": "https://loremflickr.com/600/400/watrongkhun", "description": "The White Temple." },
+    { "id": 17, "name": "Tirumala, India", "imageUrl": "https://loremflickr.com/600/400/tirumala", "description": "Hilltop temple." },
+    { "id": 18, "name": "Fushimi Inari, Japan", "imageUrl": "https://loremflickr.com/600/400/fushimiinari", "description": "Thousands of torii gates." },
+    { "id": 19, "name": "Konark Sun Temple, India", "imageUrl": "https://loremflickr.com/600/400/konark", "description": "Chariot shaped temple." },
+    { "id": 20, "name": "Luxor Temple, Egypt", "imageUrl": "https://loremflickr.com/600/400/luxor", "description": "Nile river temple." },
+    { "id": 21, "name": "Mahabodhi Temple, India", "imageUrl": "https://loremflickr.com/600/400/mahabodhi", "description": "Where Buddha attained enlightenment." },
+    { "id": 22, "name": "Todai-ji, Japan", "imageUrl": "https://loremflickr.com/600/400/todaiji", "description": "Great Buddha Hall." },
+    { "id": 23, "name": "Akshardham, India", "imageUrl": "https://loremflickr.com/600/400/akshardham", "description": "Modern Hindu architecture." },
+    { "id": 24, "name": "Pashupatinath, Nepal", "imageUrl": "https://loremflickr.com/600/400/pashupatinath", "description": "Sacred Shiva temple." },
+    { "id": 25, "name": "Sri Ranganathaswamy, India", "imageUrl": "https://loremflickr.com/600/400/ranganathaswamy", "description": "Largest functioning Hindu temple." }
+  ],
+  "beaches": [
+    { "id": 1, "name": "Bora Bora, French Polynesia", "imageUrl": "https://loremflickr.com/600/400/borabora", "description": "Crystal clear lagoon." },
+    { "id": 2, "name": "Copacabana, Brazil", "imageUrl": "https://loremflickr.com/600/400/copacabana", "description": "Famous Rio beach." },
+    { "id": 3, "name": "Waikiki, Hawaii", "imageUrl": "https://loremflickr.com/600/400/waikiki", "description": "Surfing birthplace." },
+    { "id": 4, "name": "Whitehaven, Australia", "imageUrl": "https://loremflickr.com/600/400/whitehaven", "description": "Pure white silica sand." },
+    { "id": 5, "name": "Maya Bay, Thailand", "imageUrl": "https://loremflickr.com/600/400/mayabay", "description": "Movie famous bay." },
+    { "id": 6, "name": "Navagio, Greece", "imageUrl": "https://loremflickr.com/600/400/navagio", "description": "Shipwreck beach." },
+    { "id": 7, "name": "Tulum, Mexico", "imageUrl": "https://loremflickr.com/600/400/tulum,beach", "description": "Ruins by the sea." },
+    { "id": 8, "name": "Anse Source d'Argent, Seychelles", "imageUrl": "https://loremflickr.com/600/400/seychelles", "description": "Granite boulders beach." },
+    { "id": 9, "name": "Seven Mile Beach, Jamaica", "imageUrl": "https://loremflickr.com/600/400/sevenmilebeach", "description": "Caribbean paradise." },
+    { "id": 10, "name": "Maldives Beach, Maldives", "imageUrl": "https://loremflickr.com/600/400/maldives", "description": "Overwater bungalows." },
+    { "id": 11, "name": "Bondi Beach, Australia", "imageUrl": "https://loremflickr.com/600/400/bondi", "description": "Iconic Aussie surf." },
+    { "id": 12, "name": "Lanikai, Hawaii", "imageUrl": "https://loremflickr.com/600/400/lanikai", "description": "Heavenly sea." },
+    { "id": 13, "name": "Nungwi, Zanzibar", "imageUrl": "https://loremflickr.com/600/400/zanzibar,beach", "description": "White sands of Africa." },
+    { "id": 14, "name": "Pink Sands, Bahamas", "imageUrl": "https://loremflickr.com/600/400/pinksands", "description": "Rose colored sand." },
+    { "id": 15, "name": "Railay Beach, Thailand", "imageUrl": "https://loremflickr.com/600/400/railay", "description": "Cliffs and emerald water." },
+    { "id": 16, "name": "Camps Bay, South Africa", "imageUrl": "https://loremflickr.com/600/400/campsbay", "description": "Cape Town beauty." },
+    { "id": 17, "name": "Varadero, Cuba", "imageUrl": "https://loremflickr.com/600/400/varadero", "description": "Blue waters." },
+    { "id": 18, "name": "Cannon Beach, USA", "imageUrl": "https://loremflickr.com/600/400/cannonbeach", "description": "Haystack rock." },
+    { "id": 19, "name": "Elafonissi, Greece", "imageUrl": "https://loremflickr.com/600/400/elafonissi", "description": "Pink sand lagoon." },
+    { "id": 20, "name": "Zlatni Rat, Croatia", "imageUrl": "https://loremflickr.com/600/400/zlatnirat", "description": "Golden horn spit." },
+    { "id": 21, "name": "Eagle Beach, Aruba", "imageUrl": "https://loremflickr.com/600/400/eaglebeach", "description": "Divi Divi trees." },
+    { "id": 22, "name": "South Beach, USA", "imageUrl": "https://loremflickr.com/600/400/miami,ocean", "description": "Art deco and sun." },
+    { "id": 23, "name": "Grace Bay, Turks & Caicos", "imageUrl": "https://loremflickr.com/600/400/gracebay", "description": "Top rated beach." },
+    { "id": 24, "name": "Baia do Sancho, Brazil", "imageUrl": "https://loremflickr.com/600/400/baiadosancho", "description": "Hidden gem." },
+    { "id": 25, "name": "Clearwater Beach, USA", "imageUrl": "https://loremflickr.com/600/400/clearwater", "description": "White sand gulf." }
+  ]
+}
