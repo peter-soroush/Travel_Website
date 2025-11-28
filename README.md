@@ -48,7 +48,9 @@ TravelBloom is a web-based travel recommendation platform designed to help users
 ├── travel_recommendation.js        # Main Logic & API Handling
 ├── travel_recommendation_api.json  # Data Source (100+ locations)
 └── README.md                       # Project Documentation
-⚙️ Installation & Setup
+
+
+## ⚙️ Installation & Setup
 Since this is a static website, no complex backend installation is required.
 
 Clone the repository:
@@ -84,12 +86,12 @@ Clear: Click the "Clear" button to reset the search bar and remove results.
 
 Contact: Navigate to the "Contact Us" page to view the submission form (UI only).
 
-🌐 Live Demo
-You can view the live project here: Link to your GitHub Pages
+## 🌐 Live Demo
+You can view the live project here: https://peter-soroush.github.io/Travel_Website/
 
-(Note: Replace the link above after you enable GitHub Pages in your repository settings)
 
-🤝 Contributing
+
+## 🤝 Contributing
 This is a final capstone project. However, suggestions and pull requests are welcome for educational purposes.
 
 Fork the Project
